@@ -1,0 +1,12 @@
+{
+  "n_pathways_total": 368,
+  "n_links": 39704,
+  "n_genes_total": 24684,
+  "n_rows_in_map": 39704,
+  "doc": "https://www.kegg.jp/kegg/rest/keggapi.html",
+  "endpoints": {
+    "pathways_hsa": "https://rest.kegg.jp/list/pathway/hsa",
+    "link_gene_pathway": "https://rest.kegg.jp/link/pathway/hsa",
+    "genes_hsa": "https://rest.kegg.jp/list/hsa"
+  }
+}
