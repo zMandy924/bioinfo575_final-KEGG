@@ -4,6 +4,8 @@
   - Main contributions:
     - Completed Step 1: Map/merge the information by PATHWAY_ID and GENE_ID.
     - Completed Step 2: Compute the number of overlapping genes between every 2 pathways.
+    - New Feature: Normalizes KEGG pathway overlap by pathway size and assessed pathway similarity.
+
 
 - ** Mandy Ma (uniqname: )**  
   - Main contributions:
