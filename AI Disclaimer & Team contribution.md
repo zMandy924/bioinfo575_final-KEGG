@@ -10,7 +10,7 @@
 - **Mandy Ma (uniqname: zmandy )**  
   - Main contributions:
     - Wroked on Step 3-6 Save the result, Compute a rank of the genes, Retrieve a set of the pathways, Compute and display a Venn diagram
-    - Added a new feature
+    - New feature: top 3 pathways with the highest number of genes
 
 - **Thandiwe-Kesi Robins (uniqname: thandiwe)**  
   - Main contributions:
