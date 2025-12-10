@@ -12,8 +12,11 @@
     - Wroked on Step 3-6 Save the result, Compute a rank of the genes, Retrieve a set of the pathways, Compute and display a Venn diagram
     - Added a new feature
 
-- **Thandiwe-Kesi Robins (uniqname: )**  
-  - Main contributions: Reviewed & Updated the code and added stats and interpretations. 
+- **Thandiwe-Kesi Robins (uniqname: thandiwe)**  
+  - Main contributions:
+    - Classified KEGG pathways into biological categories,  proof-read code, and added interpretations
+    - Used statistics to compare pathways shared in the top 4 genes and added a new feature that determines if pathways overlap because they are related or because the same genes are used repeatedly/shared across multiple pathways.
+   
 
 ## AI Disclaimer
 AI tools were used in this project for support, including conceptual clarification, debugging assistance, and improving code readability and documentation. All outputs were verified by the author(s). 
