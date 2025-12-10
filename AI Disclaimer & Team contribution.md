@@ -7,7 +7,7 @@
     - New Feature: Normalizes KEGG pathway overlap by pathway size and assessed pathway similarity. Because pathway overlap is strongly influenced by pathway size, raw overlap counts may be misleading and thus I looked at the proportion of overlap relative to pathway size. 
 
 
-- ** Mandy Ma (uniqname: )**  
+- ** Mandy Ma (uniqname: zmandy )**  
   - Main contributions:
     - Wroked on Step 3-6 Save the result, Compute a rank of the genes, Retrieve a set of the pathways, Compute and display a Venn diagram
     - Added a new feature
