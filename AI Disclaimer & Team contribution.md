@@ -10,7 +10,7 @@
 - ** Mandy Ma (uniqname: )**  
   - Main contributions:
     - Wroked on Step 3-6 Save the result, Compute a rank of the genes, Retrieve a set of the pathways, Compute and display a Venn diagram
-    - Think about the new features
+    - Added a new feature
 
 - **Thandiwe-Kesi Robins (uniqname: )**  
   - Main contributions: Reviewed & Updated the code and added stats and interpretations. 
