@@ -4,7 +4,7 @@
   - Main contributions:
     - Completed Step 1: Map/merge the information by PATHWAY_ID and GENE_ID.
     - Completed Step 2: Compute the number of overlapping genes between every 2 pathways.
-    - New Feature: Normalizes KEGG pathway overlap by pathway size and assessed pathway similarity.
+    - New Feature: Normalizes KEGG pathway overlap by pathway size and assessed pathway similarity. Because pathway overlap is strongly influenced by pathway size, raw overlap counts may be misleading and thus I looked at the proportion of overlap relative to pathway size. 
 
 
 - ** Mandy Ma (uniqname: )**  
